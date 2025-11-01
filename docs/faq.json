@@ -1,0 +1,124 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "category": "Shipping & Delivery",
+      "question": "How long does shipping take?",
+      "answer": "Standard shipping takes 3-5 business days within the continental US. Express shipping (1-2 business days) is available at checkout. International orders typically arrive within 7-14 business days."
+    },
+    {
+      "id": 2,
+      "category": "Shipping & Delivery",
+      "question": "Do you offer free shipping?",
+      "answer": "Yes! We offer free standard shipping on orders over $50. Orders under $50 have a flat $5.99 shipping fee."
+    },
+    {
+      "id": 3,
+      "category": "Shipping & Delivery",
+      "question": "Can I track my order?",
+      "answer": "Absolutely. Once your order ships, you'll receive a tracking number via email. You can also track your order in the My Orders section of your account."
+    },
+    {
+      "id": 4,
+      "category": "Shipping & Delivery",
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to over 50 countries worldwide. Shipping costs and delivery times vary by destination and are calculated at checkout."
+    },
+    {
+      "id": 5,
+      "category": "Returns & Exchanges",
+      "question": "What is your return policy?",
+      "answer": "We accept returns within 30 days of delivery for unopened products in original packaging. Opened products can be returned if you're not satisfied, minus a 20% restocking fee."
+    },
+    {
+      "id": 6,
+      "category": "Returns & Exchanges",
+      "question": "How do I return a product?",
+      "answer": "Log into your account, go to My Orders, select the order, and click Return Item. Print the prepaid return label and drop off at any carrier location."
+    },
+    {
+      "id": 7,
+      "category": "Returns & Exchanges",
+      "question": "When will I receive my refund?",
+      "answer": "Refunds are processed within 5-7 business days after we receive your return. The refund will be issued to your original payment method."
+    },
+    {
+      "id": 8,
+      "category": "Products & Ingredients",
+      "question": "Are your products cruelty-free?",
+      "answer": "Yes, all our products are 100% cruelty-free and never tested on animals. We're certified by Leaping Bunny and PETA."
+    },
+    {
+      "id": 9,
+      "category": "Products & Ingredients",
+      "question": "Do you have vegan options?",
+      "answer": "Yes, over 80% of our products are vegan. Look for the vegan badge on product pages, or use our vegan filter when shopping."
+    },
+    {
+      "id": 10,
+      "category": "Products & Ingredients",
+      "question": "Are your products suitable for sensitive skin?",
+      "answer": "Many of our products are formulated for sensitive skin and are dermatologically tested. Check individual product pages for sensitive skin labels and patch test before full application."
+    },
+    {
+      "id": 11,
+      "category": "Products & Ingredients",
+      "question": "How do I know which products are right for my skin type?",
+      "answer": "Use our Skin Quiz tool on the homepage to get personalized recommendations, or filter products by skin type (dry, oily, combination, sensitive) on our shop page."
+    },
+    {
+      "id": 12,
+      "category": "Products & Ingredients",
+      "question": "What does clean beauty mean for your brand?",
+      "answer": "Our clean beauty standard means no parabens, sulfates, phthalates, synthetic fragrances, or harmful chemicals. View our full no-no list on our Ingredients page."
+    },
+    {
+      "id": 13,
+      "category": "Orders & Payment",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards (Visa, Mastercard, Amex, Discover), PayPal, Apple Pay, Google Pay, and Shop Pay."
+    },
+    {
+      "id": 14,
+      "category": "Orders & Payment",
+      "question": "Can I modify or cancel my order?",
+      "answer": "Orders can be modified or cancelled within 1 hour of placement. Contact customer service immediately at support@brand.com or call us at 1-800-XXX-XXXX."
+    },
+    {
+      "id": 15,
+      "category": "Orders & Payment",
+      "question": "Do you offer gift wrapping?",
+      "answer": "Yes! Select the gift wrap option at checkout for $5. We'll include a personalized message card and elegant packaging."
+    },
+    {
+      "id": 16,
+      "category": "Product Usage",
+      "question": "How long do your products last once opened?",
+      "answer": "Most products last 12-24 months after opening. Check the PAO (Period After Opening) symbol on packaging—it shows a jar icon with the number of months."
+    },
+    {
+      "id": 17,
+      "category": "Product Usage",
+      "question": "Can I use multiple serums together?",
+      "answer": "Yes, but apply them thinnest to thickest consistency. Wait 30-60 seconds between applications. Avoid mixing retinol with vitamin C or AHAs/BHAs in the same routine."
+    },
+    {
+      "id": 18,
+      "category": "Product Usage",
+      "question": "Should I refrigerate my skincare products?",
+      "answer": "It's not required but can extend shelf life and feel refreshing. Best candidates: vitamin C serums, eye creams, and sheet masks. Avoid refrigerating oil-based products."
+    },
+    {
+      "id": 19,
+      "category": "Account & Loyalty",
+      "question": "How does your rewards program work?",
+      "answer": "Earn 1 point per dollar spent. 100 points = $5 reward. Members get early access to sales, birthday gifts, and exclusive offers. Sign up free on our website."
+    },
+    {
+      "id": 20,
+      "category": "Account & Loyalty",
+      "question": "I forgot my password. How do I reset it?",
+      "answer": "Click Forgot Password on the login page, enter your email, and we'll send reset instructions. Check your spam folder if you don't see it within 5 minutes."
+    }
+  ]
+}

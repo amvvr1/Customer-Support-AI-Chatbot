@@ -1,0 +1,51 @@
+order_id,order_status,product_id,product_name,order_value,available_sizes
+ORD1001,Processing,P473666,Invisible Post Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1002,Pending,P473660,Kasbah Eau de Parfum,150.0,3.4 oz / 100 mL
+ORD1003,Completed,P473666,Invisible Post Eau de Parfum,150.0,3.4 oz / 100 mL
+ORD1004,Pending,P473662,Rainbow Bar Eau de Parfum,150.0,3.4 oz / 100 mL
+ORD1005,Processing,P483068,ABBOTT Sampler Set,52.0,Sampler Set
+ORD1006,Shipped,P473665,L’air Barbes Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1007,Pending,P476418,African Beauty Butter Mini Gift Set,84.0,Mini Gift Set
+ORD1008,Pending,P472300,Capri Eau de Parfum,225.0,3.4 oz / 100 mL
+ORD1009,Processing,P483068,ABBOTT Sampler Set,52.0,Sampler Set
+ORD1010,Completed,P503832,Mini AFRICAN Beauty Butter- Intensive Dry Skin Treatment,24.0,1 oz / 30 mL
+ORD1011,Processing,P473662,Rainbow Bar Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1012,Completed,P473667,Invisible Post Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1013,Pending,P473671,Fragrance Discovery Set,85.0,"3.4 oz / 100 mL, 0.25 oz / 7.5 mL"
+ORD1014,Shipped,P473661,Kasbah Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1015,Processing,P473664,L’air Barbes Eau de Parfum,225.0,3.4 oz / 100 mL
+ORD1016,Pending,P472300,Capri Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1017,Pending,P473670,Capri Eau de Parfum Travel Spray,90.0,0.25 oz / 7.5 mL
+ORD1018,Processing,P473659,Purple Haze Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1019,Completed,P473660,Kasbah Eau de Parfum,150.0,3.4 oz / 100 mL
+ORD1020,Completed,P473670,Capri Eau de Parfum Travel Spray,30.0,0.25 oz / 7.5 mL
+ORD1021,Shipped,P473667,Invisible Post Eau de Parfum Travel Spray,30.0,0.25 oz / 7.5 mL
+ORD1022,Completed,P472300,Capri Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1023,Pending,P473671,Fragrance Discovery Set,170.0,"3.4 oz / 100 mL, 0.25 oz / 7.5 mL"
+ORD1024,Shipped,P473662,Rainbow Bar Eau de Parfum,225.0,3.4 oz / 100 mL
+ORD1025,Pending,P476417,African Beauty Butter Collection Deluxe Tin,240.0,Deluxe Tin Set
+ORD1026,Completed,P473658,Purple Haze Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1027,Completed,P473670,Capri Eau de Parfum Travel Spray,30.0,0.25 oz / 7.5 mL
+ORD1028,Completed,P472300,Capri Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1029,Shipped,P483068,ABBOTT Sampler Set,52.0,Sampler Set
+ORD1030,Pending,P473671,Fragrance Discovery Set,255.0,"3.4 oz / 100 mL, 0.25 oz / 7.5 mL"
+ORD1031,Shipped,P473661,Kasbah Eau de Parfum Travel Spray,90.0,0.25 oz / 7.5 mL
+ORD1032,Processing,P473662,Rainbow Bar Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1033,Shipped,P473668,La Habana Eau de Parfum,240.0,3.4 oz / 100 mL
+ORD1034,Pending,P473660,Kasbah Eau de Parfum,225.0,3.4 oz / 100 mL
+ORD1035,Shipped,P473670,Capri Eau de Parfum Travel Spray,90.0,0.25 oz / 7.5 mL
+ORD1036,Pending,P473658,Purple Haze Eau de Parfum,150.0,3.4 oz / 100 mL
+ORD1037,Processing,P473659,Purple Haze Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1038,Completed,P473666,Invisible Post Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1039,Pending,P473668,La Habana Eau de Parfum,240.0,3.4 oz / 100 mL
+ORD1040,Processing,P473666,Invisible Post Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1041,Pending,P473670,Capri Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1042,Completed,P473666,Invisible Post Eau de Parfum,225.0,3.4 oz / 100 mL
+ORD1043,Processing,P473670,Capri Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1044,Shipped,P473662,Rainbow Bar Eau de Parfum,150.0,3.4 oz / 100 mL
+ORD1045,Completed,P473664,L’air Barbes Eau de Parfum,225.0,3.4 oz / 100 mL
+ORD1046,Pending,P473665,L’air Barbes Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1047,Pending,P473661,Kasbah Eau de Parfum Travel Spray,30.0,0.25 oz / 7.5 mL
+ORD1048,Completed,P473659,Purple Haze Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL
+ORD1049,Completed,P473660,Kasbah Eau de Parfum,75.0,3.4 oz / 100 mL
+ORD1050,Shipped,P473667,Invisible Post Eau de Parfum Travel Spray,60.0,0.25 oz / 7.5 mL

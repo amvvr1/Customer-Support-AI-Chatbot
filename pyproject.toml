@@ -1,0 +1,23 @@
+[project]
+name = "support-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.120.3",
+    "jq>=1.10.0",
+    "langchain-chroma>=1.0.0",
+    "langchain-community>=0.4.1",
+    "langchain-mongodb>=0.7.1",
+    "langchain-ollama>=1.0.0",
+    "langchain-openai>=1.0.1",
+    "langchain-text-splitters>=1.0.0",
+    "langchain[openai]>=1.0.2",
+    "langgraph>=1.0.1",
+    "langserve>=0.3.3",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+    "uvicorn>=0.38.0",
+]

@@ -9,7 +9,12 @@ class Request(BaseModel):
 
 app = FastAPI()
     
-app.add_middleware(CORSMiddleware, allow_origins= ["*"])
+app.add_middleware(
+    CORSMiddleware, 
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
 
 @app.post("/chat")
 def chat(request: Request):

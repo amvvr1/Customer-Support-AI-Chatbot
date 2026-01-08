@@ -10,7 +10,7 @@ An intelligent AI agent that automates customer support for businesses, providin
 - **General Customer Service**: FAQs, policies, general information
 
 
-## 🎥 Demo
+## Demo
 In this demo I embedded the Agent in a mock ecommerce website to showcase how it works in real time. Here's the site repo:
 [https://github.com/amvvr1/gocart](https://github.com/GreatStackDev/gocart.git)
 
